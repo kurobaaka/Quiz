@@ -54,8 +54,8 @@ function App() {
   const [step, setStep] = React.useState(0);
   const question = questions[step];
 
-  onclickVariant = (index) => {
-    
+  onСlickVariant = (index) => {
+
   }
 
   return (

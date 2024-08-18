@@ -1,3 +1,4 @@
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26759%26project%3Dquiz%26in=0)](https://codetime.dev)
 ## Quiz (опросник)
 ![1660249609940](https://user-images.githubusercontent.com/12086860/184236063-9f807f93-f6a4-4577-9a12-443ff1d3fd43.png)
 
